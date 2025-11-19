@@ -16,7 +16,8 @@ It helps organize and clean up log directories by automatically creating compres
 - Python 3.x
 - Linux-based system (e.g., Ubuntu, Debian, Kali)
 
----
+# 🔗 Project URL
+https://roadmap.sh/projects/log-archive-tool
 
 ## ⚙️ How to Run
 1. Give execution permission:
